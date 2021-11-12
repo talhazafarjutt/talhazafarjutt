@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @talhazafarjutt
-- 👀 I’m interested in AI,ML,DL
-- 🌱 I’m currently learning DL
+- 👀 I’m interested in AI and related sub fields like ML,DL
+- 🌱 I’m currently learning Daat Science,
 - 💞️ I’m looking to collaborate on advance DL
 - 📫 How to reach me talha.zafar.j@gmail.com
 
