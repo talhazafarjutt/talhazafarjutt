@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @talhazafarjutt
 - 👀 I’m interested in AI and related sub fields like ML,DL, currently working as a python engineer with multiple frameworks like Django,flask, fastapi
-- 🌱 I’m currently learning R and python, aws, AI.
+- 🌱 I’m currently learning R and python, aws, Generative AI.
 - 💞️ I’m looking to collaborate on ai and python things
 - 📫 How to reach me talha.zafar.j@gmail.com
